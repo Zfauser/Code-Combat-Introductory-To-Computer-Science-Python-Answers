@@ -5,4 +5,4 @@ Please report issues if you encounter. Have Fun!
 -
 Opensource 
 -
-use code as you please
+Use This Code As You Please
