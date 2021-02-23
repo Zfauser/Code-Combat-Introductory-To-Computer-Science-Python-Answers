@@ -2,5 +2,4 @@
 The answers to code combat python introductory to computer science
 Please use as you please
 -
-ZFauser
-Have Fun...
+Have Fun!
